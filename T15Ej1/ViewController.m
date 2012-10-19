@@ -20,6 +20,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"Hola Mundo");
+    
+    NSLog(@"Este es el proyecto descargado con Clone");
 }
 
 - (void)didReceiveMemoryWarning
