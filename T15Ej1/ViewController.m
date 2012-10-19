@@ -22,6 +22,8 @@
     NSLog(@"Hola Mundo");
     
     NSLog(@"Este es el proyecto descargado con Clone");
+    
+    NSLog(@"Con esto he vuelto a cambiar el código, pero después de haber cambiado user y email");
 }
 
 - (void)didReceiveMemoryWarning
